@@ -1,0 +1,9 @@
+package study;
+
+ class Test
+{ 
+    private  String maker ;
+    private  String color ; 
+    private  String body ;
+    
+    public Test()
